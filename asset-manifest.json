@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/filter-homwork38-/static/css/main.ee699e4b.chunk.css",
+    "main.js": "/filter-homwork38-/static/js/main.05bdbb9f.chunk.js",
+    "main.js.map": "/filter-homwork38-/static/js/main.05bdbb9f.chunk.js.map",
+    "runtime-main.js": "/filter-homwork38-/static/js/runtime-main.e5cc020e.js",
+    "runtime-main.js.map": "/filter-homwork38-/static/js/runtime-main.e5cc020e.js.map",
+    "static/js/2.5deaa607.chunk.js": "/filter-homwork38-/static/js/2.5deaa607.chunk.js",
+    "static/js/2.5deaa607.chunk.js.map": "/filter-homwork38-/static/js/2.5deaa607.chunk.js.map",
+    "index.html": "/filter-homwork38-/index.html",
+    "static/css/main.ee699e4b.chunk.css.map": "/filter-homwork38-/static/css/main.ee699e4b.chunk.css.map",
+    "static/js/2.5deaa607.chunk.js.LICENSE.txt": "/filter-homwork38-/static/js/2.5deaa607.chunk.js.LICENSE.txt",
+    "static/media/Meerim.9c25199f.jpg": "/filter-homwork38-/static/media/Meerim.9c25199f.jpg",
+    "static/media/Nur.87e33b79.jpg": "/filter-homwork38-/static/media/Nur.87e33b79.jpg",
+    "static/media/Umar.dae07892.jpg": "/filter-homwork38-/static/media/Umar.dae07892.jpg",
+    "static/media/aigul.b0ed76d3.jpg": "/filter-homwork38-/static/media/aigul.b0ed76d3.jpg",
+    "static/media/arzybek.6f5e4be5.jpg": "/filter-homwork38-/static/media/arzybek.6f5e4be5.jpg",
+    "static/media/aza.f1cce94c.jpg": "/filter-homwork38-/static/media/aza.f1cce94c.jpg",
+    "static/media/bilu.e5cb599c.jpg": "/filter-homwork38-/static/media/bilu.e5cb599c.jpg",
+    "static/media/dina.462f6bc5.jpg": "/filter-homwork38-/static/media/dina.462f6bc5.jpg",
+    "static/media/kubanych.f78e1428.jpg": "/filter-homwork38-/static/media/kubanych.f78e1428.jpg",
+    "static/media/Алина.b9b85d23.png": "/filter-homwork38-/static/media/Алина.b9b85d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5cc020e.js",
+    "static/js/2.5deaa607.chunk.js",
+    "static/css/main.ee699e4b.chunk.css",
+    "static/js/main.05bdbb9f.chunk.js"
+  ]
+}
